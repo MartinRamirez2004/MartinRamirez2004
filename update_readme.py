@@ -20,7 +20,9 @@ else:
 contenido = f"""# Hola, soy Martin 👋
 
 {saludo}
-🕓 Hora actual: {hora_str} (Colombia)
+
+🕓 Hora inicial: {hora_str} (Colombia)
+(El reloj sera actualizado automaticamente cada hora)
 
 ---
 
