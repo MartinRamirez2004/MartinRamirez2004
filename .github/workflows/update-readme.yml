@@ -35,7 +35,8 @@ jobs:
           git config --global user.email "actions@github.com"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           git fetch origin main
+          git checkout main
           git pull origin main --rebase || echo "Nada que rebasear"
           git add README.md
           git commit -m "🔄 Actualización automática del saludo y hora" || echo "Sin cambios para commitear"
-          git push origin HEAD:main
+          git push origin HEAD:main || (git pull origin main --rebase && git push origin HEAD:main)
