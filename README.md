@@ -2,7 +2,7 @@
 
 🌤️ ¡Buenas tardes!
 
-🕓 Hora inicial: 12:37 PM (Colombia)
+🕓 Hora inicial: 01:34 PM (Colombia)
 (El reloj sera actualizado automaticamente cada hora)
 
 ---
