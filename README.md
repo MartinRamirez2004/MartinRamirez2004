@@ -2,7 +2,7 @@
 
 ☀️ ¡Buenos días!
 
-🕓 Hora inicial: 06:15 AM (Colombia)
+🕓 Hora inicial: 09:05 AM (Colombia)
 (El reloj sera actualizado automaticamente cada hora)
 
 ---
