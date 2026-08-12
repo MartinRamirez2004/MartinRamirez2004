@@ -2,7 +2,7 @@
 
 🌙 ¡Buenas noches!
 
-🕓 Hora inicial: 10:53 PM (Colombia)
+🕓 Hora inicial: 12:22 AM (Colombia)
 (El reloj sera actualizado automaticamente cada hora)
 
 ---
