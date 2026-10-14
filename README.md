@@ -1,8 +1,8 @@
 # Hola, soy Martin 👋
 
-☀️ ¡Buenos días!
+🌤️ ¡Buenas tardes!
 
-🕓 Hora inicial: 09:09 AM (Colombia)
+🕓 Hora inicial: 02:01 PM (Colombia)
 (El reloj sera actualizado automaticamente cada hora)
 
 ---
